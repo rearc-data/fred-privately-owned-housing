@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on the amount of private housing units that have started to built every month. A house is considered to have started to built when the digging for the foundation or footings for the house has started. If there is a building with multiple units, such as an apartment, the units are considered to be started when this digging starts.
+This release contains information on the amount of private housing units that have started construction each month. A house's construction is considered to be started when the digging of its foundation or footings has begun. If there are multiple units within a building - such as apartments - the units' construction are considered to be started when construction of the building they are contained within begins.
 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
