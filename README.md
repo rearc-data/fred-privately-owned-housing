@@ -18,9 +18,9 @@ The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Fe
 
 This resource is presented in both the XLS and CSV formats. The included dataset contains the following columns:
 
-`date, houst`
+`date, HOUST`
 
-The `houst` column represents the amount of housing units starting to be built at the time of the corresponding `date`.  
+The `HOUST` column represents the amount of housing units starting to be built at the time of the corresponding `date`.  
 
 
 ## More Information
