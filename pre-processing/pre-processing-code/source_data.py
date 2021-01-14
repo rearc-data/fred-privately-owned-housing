@@ -9,7 +9,7 @@ from s3_md5_compare import md5_compare
 
 def data_to_s3(endpoint):
     source_dataset_url = 'https://fred.stlouisfed.org/graph/fredgraph'
-    url_end = '?id=INDPRO'
+    url_end = '?id=HOUST'
     response = None
     retries = 5
     for attempt in range(retries):
