@@ -1,4 +1,4 @@
-New Privately Owned Housing Units Started | FRED
+New Privately Owned Housing Units Started (HOUST) | FRED
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-privately-owned-housing](https://github.com/rearc-data/fred-privately-owned-housing).
@@ -25,7 +25,7 @@ The `HOUST` column represents the amount of housing units starting to be built a
 - [Federal Reserve Bank of St. Louis | Homepage](https://www.stlouisfed.org/)
 - [Terms of Use FAQ](https://fred.stlouisfed.org/legal/)
 - Frequency: Monthly
-- Formats: XLS, CSV
+- Formats: CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/fred-privately-owned-housing/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.

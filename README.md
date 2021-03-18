@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-New Privately Owned Housing Units Started | FRED
+New Privately Owned Housing Units Started (HOUST) | FRED
 =========================
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-lfumsolobyp5i](https://aws.amazon.com/marketplace/pp/prodview-lfumsolobyp5i).
@@ -29,7 +29,7 @@ The `HOUST` column represents the amount of housing units starting to be built a
 - [Federal Reserve Bank of St. Louis | Homepage](https://www.stlouisfed.org/)
 - [Terms of Use FAQ](https://fred.stlouisfed.org/legal/)
 - Frequency: Monthly
-- Formats: XLS, CSV
+- Formats: CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/fred-privately-owned-housing/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
